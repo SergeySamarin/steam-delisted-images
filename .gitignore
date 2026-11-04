@@ -1,0 +1,5 @@
+node_modules/
+/.millennium
+.millennium/lsp/
+# Local development notes
+CLAUDE.md
