@@ -11,6 +11,10 @@ This plugin brings the original images back on Steam Community profile pages:
 - Game list
 - Game achievement pages
 
+![Profile showcase: before and after](images/showcase.png)
+
+![Game list: before and after](images/game-list.png)
+
 Just install it — no settings needed. It doesn't collect any data: the only requests it makes are for game
 images on the official Steam CDN.
 
